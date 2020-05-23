@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicX</string>
+    <string name="musicx_your_favourite_music_app">MusicX -Your favourite music app</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="adjust_volume">Adjust Volume</string>
+    <string name="todo">TODO</string>
+    <string name="stop">Stop</string>
+</resources>
